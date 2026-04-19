@@ -1,0 +1,11 @@
+/* تنظیم فونت برای کل اپلیکیشن */
+body {
+  margin: 0;
+  font-family: 'Tahoma', 'Segoe UI', sans-serif;
+  background-color: #f8fafc;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
