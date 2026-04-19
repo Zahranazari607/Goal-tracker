@@ -64,6 +64,11 @@ Goal Tracker Pro is a comprehensive web application designed to help users defin
 | :---: | :---: |
 | ![Persian Light](./src/screenshots/Dashboard-persian%20lang-light%20theme.png) | ![Persian Dark](./src/screenshots/Dashboard-dark%20theme-persian%20lang.png) |
 
+### 7. Mobile Experience (Fully Responsive)
+| Dashboard (Mobile) | New Goal (Mobile) | Settings (Mobile) |
+| :---: | :---: | :---: |
+| ![Mobile Dashboard](./src/screenshots/mobile%20version%200.png) | ![Mobile New Goal](./src/screenshots/mobile%20version.png) | ![Mobile Settings](./src/screenshots/mobile%20version%201.png) |
+
 ---
 
 ## 🛠️ Installation & Getting Started
